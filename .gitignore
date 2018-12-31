@@ -1,0 +1,6 @@
+/data/*
+!/data/.gitkeep
+/src/db/ms-sql/*
+!/src/db/ms-sql/.gitkeep
+/src/server/ms-server/*
+!/src/server/ms-server/.gitkeep
