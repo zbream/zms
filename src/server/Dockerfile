@@ -1,4 +1,4 @@
-FROM java:6
+FROM openjdk:7
 
 ENV MYSQL_DATABASE="odinms" MYSQL_ROOT_PASSWORD="root" ZMS_HOST="localhost"
 
